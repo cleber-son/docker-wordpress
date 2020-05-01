@@ -101,7 +101,6 @@ case "$1" in
     setupcontainers)
         setupcontainers
         ;;
-        ;;
     fixdir)
         fixdir
         ;;
